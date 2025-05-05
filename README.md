@@ -1,1 +1,1 @@
-# script-assit-exercise
+# script-assist-exercise
